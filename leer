@@ -1,0 +1,7 @@
+primeramente corre el Script con el nombre de multicapa.py
+este generara los siguientes archivos:
+matriz_final.py ---> matriz de pesos final .
+patron_entrada.bmp -->patrón elegido para probar la red.
+patron_con_ruido.bmp --> patrón después de adicionarle ruido.
+patron_encontrado.bmp ---> patrón que reconstruyo la red
+ vectores_de_entrenamiento.py --> arreglo de tipo Numpy que contiene la información del patrón a encontrar. 
